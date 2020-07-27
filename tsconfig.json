@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "target": "es5"
+  },
+  "include": ["**/*.ts"],
+  "exclude": ["node_modules"]
+}
